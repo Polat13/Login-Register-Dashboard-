@@ -21,7 +21,7 @@ function RegisterForm() {
   };
 
   return (
-    <div className="min-h-screen  bg-black flex justify-center items-center">
+    <div className="min-h-screen flex justify-center items-center">
       <div className="p-10 rounded-2xl bg-white/10 border border-white/40 ">
         <h2 className="text-white text-2xl font-semibold text-center pb-6">Kayıt Olun</h2>
 
